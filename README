@@ -1,0 +1,20 @@
+
+Sybilux
+Controlling Software System for Embedded Computers (CSSEC)
+
+   This is Sybilux codebase. An operating system for embedded platforms.
+   Sybilux is written and maintained by Yaniv Abraham and some contributors.
+   but otherwise is completely free to copy, modify, and install anywhere
+   but please read LICENSE in the same directory.
+
+   Sybilux has a layered monolithic kernel.
+
+	Code is licensed under the New BSD License (see LICENSE file)
+
+You are welcome to contribute in any form. If you are a system programmer,
+kernel developer or otherwise enthusiastic programmer you can download the
+codebase and upload your changes after reviewing by a committer. Thank you!
+
+Yaniv Abraham <yaniv.abraham@yahoo.com>
+March 2016
+
